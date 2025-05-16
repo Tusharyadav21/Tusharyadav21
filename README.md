@@ -4,12 +4,12 @@ Hey.! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 I'm a Software Developer
 -------------------------
 
-I'm learning coding for 5 years, I can say I'm a MERN stack Developer who always seek's a challenging role to utilise his expertise in delivering robust and user-centric web applications. I'm not limited to any Tech Stack, I'm always open to learn.
+I'm learning coding for 4 years, I can say I'm a MERN stack Developer who always seek's a challenging role to utilise his expertise in delivering robust and user-centric web applications. I'm not limited to any Tech Stack, I'm always open to learn.
 
 *   🌍  I'm based in Bengaluru
 *   🖥️  See my portfolio at [Next.JS Portfolio](http://dark-main.netlify.app/)
 *   ✉️  You can contact me at [tusharydv@hotmail.com](mailto:tusharydv@hotmail.com)
-*   🤝  I'm open to collaborating on MERN Stack Projects
+*   🤝  I'm open to collaborating on MERN Stack as well as Gen AI Projects
 -------------------------------
 
 ### Skills 
